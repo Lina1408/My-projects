@@ -1,4 +1,4 @@
-Rock, Paper, Scissors game:
+Rock, Paper, Scissors game on Python
 
 
 from random import choice
